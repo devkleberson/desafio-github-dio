@@ -1,0 +1,21 @@
+O Git é um sistema de controlo de versões, distribuído e de código aberto. Ora, isto são muitas palavras para definir o Git.
+
+Vamos decompor esta definição complexa e explicar cada um dos conceitos:
+
+Sistema de controlo: isto significa que o Git é, basicamente, um tracker de conteúdo. Portanto, o Git pode ser usado para guardar conteúdo – É usado, principalmente, para armazenar código, devido às outras funcionalidades que disponibiliza.
+Sistema de controlo de versões: O código que é guardado no Git está em constante mutação à medida que novo código é adicionado. Além disso, muitos programadores podem adicionar código em paralelo. O sistema de controlo de versões, ajuda a gerir tudo isto, mantendo um histórico das alterações que foram realizadas. Adicionalmente, o Git disponibiliza funcionalidades como branches e merges, que explicaremos mais tarde.
+Sistema distribuído de controlo de versões : O Git tem um repositório remoto que está alojado em um servidor e um repositório local que está alojado no computador de cada programador. Isto significa que o código não está apenas guardado num servidor central, mas também existe uma cópia integral em todos os computadores dos programadores. Assim, o Git é um sistema distribuído de controlo de versões porque está presente no computador de cada programador. Explicaremos o conceito de repositórios remotos e locais, posteriormente, neste artigo.
+Por que precisamos de um Sistema de Controlo de Versões como o Git
+Os projetos na vida real implicam a colaboração em paralelo de vários programadores. Por isso, é necessário um sistema de controlo de versões, como o Git, para garantir que não existem conflitos entre o código desenvolvido por diferentes pessoas.
+
+Adicionalmente, os requisitos destes projectos são alterados com muita frequência. Um sistema de controlo de versões permite que os programadores possam reverter alterações e voltar a uma versão anterior do código.
+
+Finalmente, por vezes, existem projetos que estão a decorrer em paralelo e que partilham o mesmo código base. Nestes casos, o conceito de criação de branches do Git é muito importante.
+
+Agora, vamos começar a usar o Git.
+Em vez de abordarmos os conceitos todos de uma só vez, vamos explicar cada um deles, através de um exemplo, para um entendimento mais fácil.
+
+Download do Git
+
+Esta ligação tem as instruções para instalação do Git em diversos sistemas operativos:
+https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
